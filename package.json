@@ -1,0 +1,26 @@
+{
+  "name": "react-input-tags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoRJF/react-input-tags.git"
+  },
+  "keywords": [
+    "react",
+    "input-tags",
+    "tags",
+    "javascript",
+    "component"
+  ],
+  "author": "Renato Ferreira <renatoferreira.dev@gmail.com> (https://github.io/RenatoRJF)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RenatoRJF/react-input-tags/issues"
+  },
+  "homepage": "https://github.com/RenatoRJF/react-input-tags#readme"
+}
